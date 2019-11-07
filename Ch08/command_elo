@@ -1,0 +1,6 @@
+$HADOOP/bin/hadoop jar /home/<user>/bin/hadoop/hadoop-streaming-3.2.0.jar \
+  -file ./elo-mapper.py -mapper ./elo-mapper.py \
+  -file ./elo-reducer.py -reducer ./elo-reducer.py \
+  -input '/path/to/wta/files/wta_matches_200*.csv' \
+  -output ./tennis_ratings
+

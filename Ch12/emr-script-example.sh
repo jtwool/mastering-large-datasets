@@ -1,0 +1,1 @@
+aws emr add-steps --cluster-id j-1EN18B2OUXEN5 --bootstrap-actions Args=['pip install boto3'] --steps Type=spark,Name=CrashNB,Args=[--deploy-mode,cluster,--master,yarn,s3://scorpion-elastic-jobs/spark_bayes.py],ActionOnFailure=CONTINUE

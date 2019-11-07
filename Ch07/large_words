@@ -1,0 +1,5 @@
+$HADOOP/bin/hadoop jar /home/jt-w/bin/hadoop/hadoop-streaming-3.2.0.jar \
+  -file ./wc_mapper.py -mapper ./wc_mapper.py \
+  -file ./wc_reducer.py -reducer ./wc_reducer.py \
+  -input 'Florence_Machine.txt' \
+  -output ./FlorenceMachineCounts

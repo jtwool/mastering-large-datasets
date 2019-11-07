@@ -1,0 +1,1 @@
+aws emr add-steps --cluster-id j-2434JDJSLG768 --steps Type=spark,Name=SparkCrashesNB,Args=[--deploy-mode,cluster,--master,yarn,--conf,spark.yarn.submit.waitAppCompletion=false,--num-executors,2,--executor-cores,1,--executor-memory,10g,s3://scorpion-elastic-jobs/crashes_nb.py,s3://scorpion-nys-crashes/,s3://scorpion-spark-outputs/],ActionOnFailure=CONTINUE
