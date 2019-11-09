@@ -20,5 +20,5 @@ Chapters 2-12 of this book have accompanying Jupyter notebooks.
 - [Chapter 9](notebooks/Ch09_notebook.ipynb)
 - [Chapter 10](notebooks/Ch10_notebook.ipynb)
 - [Chapter 11](notebooks/Ch11_notebook.ipynb)
-
+- No notebook for Chapter 12 -- this chapter should be run on AWS EMR
 
