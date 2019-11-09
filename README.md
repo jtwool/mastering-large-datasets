@@ -19,5 +19,6 @@ Chapters 2-12 of this book have accompanying Jupyter notebooks.
 - No notebook for Chapter 8 -- this chapter focuses on Hadoop
 - [Chapter 9](notebooks/Ch09_notebook.ipynb)
 - [Chapter 10](notebooks/Ch10_notebook.ipynb)
+- [Chapter 11](notebooks/Ch11_notebook.ipynb)
 
 
