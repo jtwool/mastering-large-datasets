@@ -15,3 +15,5 @@ Chapters 2-12 of this book have accompanying Jupyter notebooks.
 - [Chapter 4](notebooks/Ch04_notebook.ipynb)
 - [Chapter 5](notebooks/Ch05_notebook.ipynb)
 - [Chapter 6](notebooks/Ch06_notebook.ipynb)
+- [Chapter 7](notebooks/Ch07_notebook.ipynb)
+
