@@ -23,8 +23,8 @@ In addition to the code found in the book, most chapters have accompanying Jupyt
   <li><a href="notebooks/Ch07_notebook.ipynb">Chapter 7</a></li>
   <li>No notebook for Chapter 8</li>
   <li><a href="notebooks/Ch09_notebook.ipynb">Chapter 9</a></li>
-  <li><a href="notebooks/Ch010_notebook.ipynb">Chapter 10</a></li>
-  <li><a href="notebooks/Ch011_notebook.ipynb">Chapter 11</a></li>
+  <li><a href="notebooks/Ch10_notebook.ipynb">Chapter 10</a></li>
+  <li><a href="notebooks/Ch11_notebook.ipynb">Chapter 11</a></li>
   <li>No notebook for Chapter 12</li>
 </ul>
 </td>
