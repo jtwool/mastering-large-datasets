@@ -20,7 +20,6 @@ mrjob==0.6.9
 multiprocess==0.70.7
 numpy==1.16.4
 pathos==0.2.3
-pkg-resources==0.0.0
 pox==0.2.5
 ppft==1.6.4.9
 protobuf==3.8.0
